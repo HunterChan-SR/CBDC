@@ -1,0 +1,8 @@
+framework module "GoCBDC" {
+	header "ref.h"
+    header "GoCBDC.objc.h"
+    header "Universe.objc.h"
+    header "GoCBDC.h"
+
+    export *
+}
