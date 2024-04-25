@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Enroll">Enroll</string>
+    <string name="OfflineTx">OfflineTx</string>
+    <string name="Exit">Exit</string>
+    <string name="Please_wait">Please wait</string>
+</resources>

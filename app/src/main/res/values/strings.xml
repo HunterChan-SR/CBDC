@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CBDCAPP</string>
+    <string name="Enroll">Enroll</string>
+    <string name="OfflineTx">OfflineTx</string>
+    <string name="Exit">Exit</string>
+    <string name="Please_wait">Please wait</string>
+</resources>
